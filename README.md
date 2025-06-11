@@ -41,3 +41,20 @@ A web-based application to **track and manage DTH (Direct-to-Home) TV subscripti
 ├── style.css      # CSS styles (if separated)
 ├── script.js      # JavaScript logic
 └── README.md      # Project documentation
+## 🧩 How to Use
+
+1. Open the project in your browser or clone the repository.
+2. Fill in the DTH addon subscription details.
+3. Click the **"Add"** button to save the data.
+4. Use the search bar to find records in real-time.
+5. Edit or delete entries as required using the action buttons.
+
+---
+
+## 🧠 Skills Demonstrated
+
+- 🎨 Frontend Web Development  
+- 🧩 DOM Manipulation  
+- 🗂️ Client-side Data Handling  
+- 🖍️ UI/UX Design Principles  
+- 🐞 Debugging and Optimization

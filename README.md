@@ -28,11 +28,6 @@ A web-based application to **track and manage DTH (Direct-to-Home) TV subscripti
 
 ---
 
-## 📷 Screenshots
-
-> Add a screenshot of your web app here (optional)
-
----
 
 ## 📁 Project Structure
 
